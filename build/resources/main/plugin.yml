@@ -1,0 +1,6 @@
+name: Lucy_PlayTime
+version: '0.1'
+main: kr.lucymc.lucy_playtime.Lucy_PlayTime
+api-version: '1.20'
+softdepend: [PlaceholderAPI]
+load: STARTUP
